@@ -1,6 +1,13 @@
-## PASOS PARA INICIALIZAR EL PROYECTO
+<div>
+    <p align="center">
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--egmJbu5X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/trp0zksm3rffm69rp35z.png" width="400" alt="UFPS Logo" />
+    </p>
+</div>
+
+# Guia para inicializar el proyecto
 
 # Ejecutar "npm i" para traer las dependencias necesarias
+
 ```
 npm i
 ```
